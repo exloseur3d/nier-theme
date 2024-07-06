@@ -19,6 +19,13 @@ they have 2 diferent color to indicate if the link point point to an existing no
 wile internal link are brown/red, **exernal** link are blue with a small logo to make it easy to defirencite them frim internal link.
 ![image](https://github.com/exloseur3d/nier-theme/blob/e0c5fa252ad5b401b9a0a1b0a5ec1d04ff7ce9d9/image%20theme/extarnal%20link.png)
 
+##callout
+with less flashy color to be more gentle witj the eyes.
+
+![image](https://github.com/exloseur3d/nier-theme/blob/601509811364d235f59cfc7d4c8d075054cba677/image%20theme/callout%201.png)
+![image](https://github.com/exloseur3d/nier-theme/blob/601509811364d235f59cfc7d4c8d075054cba677/image%20theme/callout%202.png)
+![image](https://github.com/exloseur3d/nier-theme/blob/601509811364d235f59cfc7d4c8d075054cba677/image%20theme/callout%20and%20codebloc.png)
+
 ## graph view
 Diplayed in red are the tags, in light gray the atachements and in grey the notes.
 
@@ -37,7 +44,8 @@ keeping the general color theme with smal change to make navigation simpler.
 ![image](https://github.com/exloseur3d/nier-theme/blob/8cb818eb9fc6bfbd51283225ebb983b45df13430/image%20theme/interface%202.png)
 ![image](https://github.com/exloseur3d/nier-theme/blob/8cb818eb9fc6bfbd51283225ebb983b45df13430/image%20theme/interface%203.png)
 
-
+## canvas
+![image](https://github.com/exloseur3d/nier-theme/blob/601509811364d235f59cfc7d4c8d075054cba677/image%20theme/canvas.png)
 
 
 
