@@ -19,11 +19,10 @@ they have 2 diferent color to indicate if the link point point to an existing no
 wile internal link are brown/red, **exernal** link are blue with a small logo to make it easy to defirencite them frim internal link.
 ![image](https://github.com/exloseur3d/nier-theme/blob/e0c5fa252ad5b401b9a0a1b0a5ec1d04ff7ce9d9/image%20theme/extarnal%20link.png)
 
-##callout
+## callout and code bloc
+
 with less flashy color to be more gentle witj the eyes.
 
-![image](https://github.com/exloseur3d/nier-theme/blob/601509811364d235f59cfc7d4c8d075054cba677/image%20theme/callout%201.png)
-![image](https://github.com/exloseur3d/nier-theme/blob/601509811364d235f59cfc7d4c8d075054cba677/image%20theme/callout%202.png)
 ![image](https://github.com/exloseur3d/nier-theme/blob/601509811364d235f59cfc7d4c8d075054cba677/image%20theme/callout%20and%20codebloc.png)
 
 ## graph view
@@ -40,8 +39,7 @@ Diplayed in red are the tags, in light gray the atachements and in grey the note
 
 ## menu interface
 keeping the general color theme with smal change to make navigation simpler.
-![image](https://github.com/exloseur3d/nier-theme/blob/8cb818eb9fc6bfbd51283225ebb983b45df13430/image%20theme/interface%201.png)
-![image](https://github.com/exloseur3d/nier-theme/blob/8cb818eb9fc6bfbd51283225ebb983b45df13430/image%20theme/interface%202.png)
+
 ![image](https://github.com/exloseur3d/nier-theme/blob/8cb818eb9fc6bfbd51283225ebb983b45df13430/image%20theme/interface%203.png)
 
 ## canvas
@@ -51,6 +49,20 @@ keeping the general color theme with smal change to make navigation simpler.
 
 # more info
 - this theme is based on the theme [Atom](https://github.com/kognise/obsidian-atom)
+
+## plugin compatibilite
+right now the theme work with the folowing plugin :
+- [Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin)
+- [Task](https://github.com/obsidian-tasks-group/obsidian-tasks)
+- [Editing toolbar](https://github.com/PKM-er/obsidian-editing-toolbar)
+- [Full calendar](https://github.com/obsidian-community/obsidian-full-calendar)
+- [LanguageToolIntegration](https://github.com/Clemens-E/obsidian-languagetool-plugin)
+- [Image converter](https://github.com/xryul/obsidian-image-converter)
+- [Code styler](https://github.com/mayurankv/Obsidian-Code-Styler)
+- [Typing Assistant](https://github.com/Jambo2018/notion-assistant-plugin)
+- [Multi tag](https://github.com/technohiker/obsidian-multi-tag)
+
+if for some reason other plugin have problem with the Nier theme, send me a message and i will try to fix the problem has fast has possible.
 
 ## ABOUT ME
 [buy me a coffee](https://buymeacoffee.com/exloseur)
