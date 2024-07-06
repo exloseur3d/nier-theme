@@ -31,6 +31,12 @@ Diplayed in red are the tags, in light gray the atachements and in grey the note
 ## stacked mode
 ![image](https://github.com/exloseur3d/nier-theme/blob/4a0b64a98934c2b36d90ab75e9a610e38a6d1f62/image%20theme/stacked%20view.png)
 
+## menu interface
+keeping the general color theme with smal change to make navigation simpler.
+![image](https://github.com/exloseur3d/nier-theme/blob/8cb818eb9fc6bfbd51283225ebb983b45df13430/image%20theme/interface%201.png)
+![image](https://github.com/exloseur3d/nier-theme/blob/8cb818eb9fc6bfbd51283225ebb983b45df13430/image%20theme/interface%202.png)
+![image](https://github.com/exloseur3d/nier-theme/blob/8cb818eb9fc6bfbd51283225ebb983b45df13430/image%20theme/interface%203.png)
+
 
 
 
