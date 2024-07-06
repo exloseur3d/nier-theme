@@ -63,5 +63,11 @@ Right now the theme is guaranteed to work with the following plugins:
 If for some reason other plugins have problems with the Nier theme, send me a message and I will try to fix the problem as fast as possible.
 
 ## ABOUT ME
+My name is Bryan, i am a french **geologist** (not yet but about to becom one) and in no wey an expert in coding. Befor going il geologi a have done some studi in 3D animation and VFX and thats where i learned a bit about conding on Houdini. I am making this theme in me free time has i use obsidian has my main note taking app. You probabli gest it, i am a huge fan of the univers created by Yoko Taro and i also like simple interface, that explain this theme. 
 
+### suport me
+if you like this theme you can support me :
 [buy me a coffee](https://buymeacoffee.com/exloseur)
+
+### contact me 
+For enny problem about the theme you can contact me there : hernandez.bryan.3d@gmail.com
