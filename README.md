@@ -51,7 +51,7 @@ keeping the general color theme with smal change to make navigation simpler.
 - this theme is based on the theme [Atom](https://github.com/kognise/obsidian-atom)
 
 ## plugin compatibilite
-right now the theme work with the folowing plugin :
+right now the theme is garanti to work with the folowing plugin :
 - [Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin)
 - [Task](https://github.com/obsidian-tasks-group/obsidian-tasks)
 - [Editing toolbar](https://github.com/PKM-er/obsidian-editing-toolbar)
@@ -65,5 +65,7 @@ right now the theme work with the folowing plugin :
 if for some reason other plugin have problem with the Nier theme, send me a message and i will try to fix the problem has fast has possible.
 
 ## ABOUT ME
+
+
 [buy me a coffee](https://buymeacoffee.com/exloseur)
 
