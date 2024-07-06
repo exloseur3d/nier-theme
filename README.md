@@ -1,5 +1,5 @@
 # nier-theme
-The Nier theme is an Obsidian theme inspired by the UI of the video game "NieR: Automata" by Yoko Taro.
+The Nier theme is an Obsidian theme inspired by the UI of the video game "NieR: Automata".
 
 This theme tries to be as close looking to the game menu while still being usable and easy on the eyes with the warm "mono" color scheme.
 
