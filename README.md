@@ -2,21 +2,43 @@
 The Nier theme is an Obsidian theme inspired by the UI of the video game "NieR: Automata".
 
 This theme tries to be as close looking to the game menu while still being usable and easy on the eyes with the warm "mono" color scheme.
+___
+___
+# PREFACE
+## ABOUT ME
+My name is Bryan, I am a French geologist (not yet but about to become one) and I am in no way an expert in coding. Before going into geology, I did some study in 3D animation and VFX, and that's where I learned a bit about coding in the program Houdini. I am making this theme in my free time as I use Obsidian as my main note-taking app. You probably guessed it, I am a huge fan of the universe created by Yoko Taro and I also like simple interfaces, which explains this theme. This theme is for my personal use first, but I decided to share it with the community. I will try my best to troubleshoot this theme if you find any problems or bugs with it.
+
+### SUPPORT ME
+If you like this theme you can support me there : 
+
+<a href="https://buymeacoffee.com/exloseur" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+<img src="https://github.com/exloseur3d/nier-theme/blob/713a3799e7c229767b9c53a3a6b33517302901c4/image%20theme/bmc_qr.png" alt="BMC qr code" width="300" height="300">
+
+### CONTACT ME
+For any problem about the theme you can contact me here: <a href="mailto:hernandez.bryan.3d@gmail.com">Send email</a>
+___
+___
+
+# PRESENTATION
 
 ![image](https://github.com/exloseur3d/nier-theme/blob/151bd8113dbf92e911d0ee087a49bf629565a2a6/image%20theme/miniature.png)
 
 # FEATURES
 ## HEADER
 - The header font is based on the same font found in the game.
-- Heading 1 has an underline/separation line.
+- Header 1 has an underline/separation line.
 ![image](https://github.com/exloseur3d/nier-theme/blob/e0c5fa252ad5b401b9a0a1b0a5ec1d04ff7ce9d9/image%20theme/header.png)
 
 ## LINK
 ### INTERNAL LINK
 They have 2 different colors to indicate if the link points to an existing note or not. While there are 2 colors for internal links, they are close enough to not be distracting but different enough to remind you that you can create a note on a link.
+
 ![image](https://github.com/exloseur3d/nier-theme/blob/e0c5fa252ad5b401b9a0a1b0a5ec1d04ff7ce9d9/image%20theme/internal%20link.png)
+
 ### EXTERNAL LINK
 While internal links are brown/red, **external** links are blue with a small logo to make it easy to differentiate them from internal links.
+
 ![image](https://github.com/exloseur3d/nier-theme/blob/c4df44fc8be299669d0992cb1c17c9f5a5b188a2/image%20theme/extarnal%20link.png)
 
 ## CALLOUT AND CODE BLOC
@@ -28,10 +50,10 @@ With less flashy colors to be more gentle with the eyes.
 ## GRAPH VIEW
 Displayed in red are the tags, in light gray the attachments, and in gray the notes.
 
-<ins>No attachment<ins>
+<ins>No attachment :<ins>
 ![image](https://github.com/exloseur3d/nier-theme/blob/82a473c63c79b11dbbab37bb040c7a45c6158acc/image%20theme/graph%20view.png)
 
-<ins>With attachments<ins>
+<ins>With attachments :<ins>
 ![image](https://github.com/exloseur3d/nier-theme/blob/c4df44fc8be299669d0992cb1c17c9f5a5b188a2/image%20theme/graphview%20with%20attachements.png)
 
 ## STAKED MODE
@@ -46,7 +68,7 @@ Keeping the general color theme with small changes to make navigation simpler.
 ![image](https://github.com/exloseur3d/nier-theme/blob/601509811364d235f59cfc7d4c8d075054cba677/image%20theme/canvas.png)
 
 # MORE INFO
-- This theme is based on the theme [Atom](https://github.com/kognise/obsidian-atom)
+- This theme is based on the theme [Atom](https://github.com/kognise/obsidian-atom).
 
 ## PLUGIN COMPATIBILITIE
 Right now the theme is guaranteed to work with the following plugins:
@@ -62,14 +84,6 @@ Right now the theme is guaranteed to work with the following plugins:
 
 If for some reason other plugins have problems with the Nier theme, send me a message and I will try to fix the problem as fast as possible.
 
-# ABOUT ME
-My name is Bryan, i am a french **geologist** (not yet but about to becom one) and i am in no wey an expert in coding. Befor going in geologi a have done some studi in 3D animation and VFX and thats where i learned a bit about conding in the program Houdini. I am making this theme in me free time has i use obsidian has my main note taking app. You probabli gest it, i am a huge fan of the univers created by Yoko Taro and i also like simple interface, that explain this theme. 
 
-### SUPORT ME
-if you like this theme you can support me :
-[buy me a coffee](https://buymeacoffee.com/exloseur)
-
-### CONTACT ME 
-For enny problem about the theme you can contact me there : [hernandez.bryan.3d@gmail.com](hernandez.bryan.3d@gmail.com) 
 
 
