@@ -51,3 +51,7 @@ keeping the general color theme with smal change to make navigation simpler.
 
 # more info
 - this theme is based on the theme [Atom](https://github.com/kognise/obsidian-atom)
+
+## ABOUT ME
+[buy me a coffee](https://buymeacoffee.com/exloseur)
+
