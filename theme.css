@@ -487,7 +487,6 @@ pre[class*='language-'] {
   text-decoration-line: var(--link-external-decoration);
   background-position: center right;
   background-repeat: no-repeat;
-  background-image: linear-gradient(transparent, transparent), url(public/images/874d8b8….svg);
   background-size: 13px;
   padding-inline-end: 16px;
   background-position-y: 4px;
@@ -498,7 +497,6 @@ pre[class*='language-'] {
   text-decoration-line: var(--link-external-decoration);
   background-position: center right;
   background-repeat: no-repeat;
-  background-image: linear-gradient(transparent, transparent), url(public/images/874d8b8e340f75575caa.svg);
   background-size: 13px;
   padding-right: 16px;
   background-position-y: 4px;
