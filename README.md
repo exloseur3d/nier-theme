@@ -84,6 +84,10 @@ Right now the theme is guaranteed to work with the following plugins:
 
 If for some reason other plugins have problems with the Nier theme, send me a message and I will try to fix the problem as fast as possible.
 
+# UPDATE
 
-
+## 0.1.01
+date 12/07/2024
+- Background of the forward and backward link fixed
+- Fixed the color when writing in LaTeX
 
