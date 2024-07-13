@@ -96,5 +96,6 @@ date 12/07/2024
 - Fixed the color when writing in LaTeX
 
 ## 0.1.02
-date 12/07/2024
+date 13/07/2024
 - fix for the **tooltip** background color to improve readability.
+- Other small change for some icon color for a better reading experience.
