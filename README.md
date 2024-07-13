@@ -106,4 +106,7 @@ date 13/07/2024
 date 13/07/2024
 - Fix multiple color issues for mobile devices.
 
-
+## 0.1.04
+date 14/07/2024
+- Fix pop-up notification text color.
+- Fix setting background colors on mobile.

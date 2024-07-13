@@ -93,6 +93,9 @@
   --interactive-hover: var(----background-modifier-border-hover);
   --modal-background: var(--background-secondary);
 }
+.is-tablet.theme-dark .vertical-tab-content {
+  background-color: var(--background-primary);
+}
 
 .is-mobile.theme-dark {
   --color-base-00: #000;
@@ -585,6 +588,7 @@ button {
 /*menu d'éroulant*/
 select, .dropdown{
   color: var(--background-primary); 
+  background-color: var(--background-secondary);
 }
 
 /*callout*/
@@ -750,4 +754,21 @@ body {
 button:not(.clickable-icon) {
   background-color: var(--background-secondary-alt);
   box-shadow: var(--input-shadow);
+}
+
+/*notification window*/
+.notice {
+  background-color: var(--background-modifier-message);
+  border-radius: var(--radius-m);
+  box-shadow: 0 2px 8px var(--background-modifier-box-shadow);
+  color: var(--background-secondary-alt);
+  font-size: var(--font-ui-small);
+  line-height: var(--line-height-tight);
+  padding: 0.75em 1em 0.75em 1em;
+  max-width: 300px;
+  margin-bottom: 14px;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+  cursor: var(--cursor);
 }
