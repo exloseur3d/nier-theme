@@ -95,3 +95,10 @@ date 12/07/2024
 - Background of the forward and backward link fixed
 - Fixed the color when writing in LaTeX
 
+## 0.1.02
+date 13/07/2024
+- fix for the **tooltip** background color to improve readability.
+
+   ![image](https://github.com/exloseur3d/nier-theme/blob/045cb150022bd41bb114410514c5bfc72dd2933e/image%20theme/tooltip%20change.png)
+- Other small change for some icon color for a better reading experience.
+
