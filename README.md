@@ -102,3 +102,8 @@ date 13/07/2024
    ![image](https://github.com/exloseur3d/nier-theme/blob/045cb150022bd41bb114410514c5bfc72dd2933e/image%20theme/tooltip%20change.png)
 - Other small change for some icon color for a better reading experience.
 
+## 0.1.03
+date 13/07/2024
+- Fix multiple color issues for mobile devices.
+
+
