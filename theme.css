@@ -93,6 +93,9 @@
   --interactive-hover: var(----background-modifier-border-hover);
   --modal-background: var(--background-secondary);
 }
+.is-tablet.theme-dark .vertical-tab-content {
+  background-color: var(--background-primary);
+}
 
 .is-mobile.theme-dark {
   --color-base-00: #000;
@@ -585,6 +588,7 @@ button {
 /*menu d'éroulant*/
 select, .dropdown{
   color: var(--background-primary); 
+  background-color: var(--background-secondary);
 }
 
 /*callout*/
