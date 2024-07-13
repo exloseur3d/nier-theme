@@ -1,5 +1,5 @@
 /* Base colors - TODO: are grey 1 and grey 2 used? */
-.theme-dark {
+.theme-dark, .is-mobil.is-mobile.theme-dark {
   --accent-h: 219;
   --accent-s: 56%;
   --accent-l: 55%;
@@ -82,7 +82,32 @@
     --code-property : rgb(51, 77, 190); 
     --code-value : rgb(161, 83, 170); 
     --code-keyword : rgb(188, 106, 124); 
+
+    --dropdown-background : var(--interactive-normal); 
 }
+
+.is-tablet.theme-dark {
+  --titlebar-background: var(--background-primary);
+  --titlebar-background-focused: var(--background-primary);
+  --interactive-normal: var(--background-primary);
+  --interactive-hover: var(----background-modifier-border-hover);
+  --modal-background: var(--background-secondary);
+}
+
+.is-mobile.theme-dark {
+  --color-base-00: #000;
+  --color-base-10: #111;
+  --color-base-20: #1e1e1e;
+  --tag-background: var(--background-primary-alt);
+  --search-result-background: var(--background-primary);
+  --background-modifier-form-field: var(--background-primary);
+  --background-modifier-cover: rgba(0, 0, 0, 0.5);
+  --background-modifier-hover: rgba(var(--mono-rgb-100), 0.15);
+  --settings-home-background: var(--background-primary);
+  --mobile-sidebar-background: var(--background-secondary);
+  --background-modifier-message: var(--background-secondary);
+}
+
 
 .theme-light {
   --accent-h: 230;
@@ -722,3 +747,7 @@ body {
   --background-modifier-message: var(--background-primary) !important;
 }
 
+button:not(.clickable-icon) {
+  background-color: var(--background-secondary-alt);
+  box-shadow: var(--input-shadow);
+}
