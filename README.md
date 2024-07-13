@@ -70,6 +70,10 @@ Keeping the general color theme with small changes to make navigation simpler.
 # MORE INFO
 - This theme is based on the theme [Atom](https://github.com/kognise/obsidian-atom).
 
+## CUSTOM SNIPPET
+- No shadow title : [here](https://github.com/exloseur3d/nier-theme/blob/6fce0b80b34495a4973b73b0829f51ddd14e7b8e/theme%20snippet/No_shadow_title_snippet.css)
+  ![image](https://github.com/exloseur3d/nier-theme/blob/8c14f1ac77ec2dfd85fb75273515c190c7a4642b/image%20theme/no%20shadow.png)
+
 ## PLUGIN COMPATIBILITIE
 Right now the theme is guaranteed to work with the following plugins:
 - [Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin)
