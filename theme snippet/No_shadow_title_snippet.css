@@ -1,0 +1,76 @@
+/*section inline title*/
+.inline-title {
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: 800;
+  letter-spacing: .6rem;
+  text-shadow: .3rem .3rem 0 rgba(77, 73, 62,.3);
+  color : var(--text-normal);
+}
+
+/*section header 1*/
+.HyperMD-header-1, h1, h1, .markdown-rendered h1 { 
+
+  text-transform: uppercase;
+  font-size: 35px;
+  font-weight: 500;
+  letter-spacing: .7rem;
+  text-shadow: .3rem .3rem 0 rgba(77, 73, 62, 0) !important;
+  h1-color: var(--text-normal);
+  
+  display: block;
+  content: "";
+  padding-bottom: 2px;  
+  border-bottom: 2px solid var(--text-normal);
+}
+
+/*section header 2*/
+.HyperMD-header-2, h2, h2, .markdown-rendered h2{
+  text-transform: uppercase;
+  font-size: 25px;
+  font-weight: 500;
+  letter-spacing: .6rem;
+  text-shadow: .25rem .25rem 0 rgba(77, 73, 62, 0) !important;
+  h1-color: var(--text-normal)
+}
+
+/*section header 3*/
+.HyperMD-header-3, h3, h3, .markdown-rendered h3{
+  text-transform: uppercase;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: .5rem;
+  text-shadow: .2rem .2rem 0 rgba(77, 73, 62, 0) !important;
+  h1-color: var(--text-normal)
+}
+
+/*section header 4*/
+.HyperMD-header-4, h4, h4, .markdown-rendered h4{
+  text-transform: uppercase;
+  font-size: 17px;
+  font-weight: 500;
+  letter-spacing: .45rem;
+  text-shadow: .15rem .15rem 0 rgba(77, 73, 62, 0) !important;
+  h1-color: var(--text-normal)
+}
+
+/*section header 5*/
+.HyperMD-header-5, h5, h5, .markdown-rendered h5{
+  text-transform: uppercase;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: .3rem;
+  text-shadow: .14rem .14rem 0 rgba(77, 73, 62, 0) !important;
+  h1-color: var(--text-normal)
+}
+
+/*section header 6*/
+.HyperMD-header-6, h6, h6, .markdown-rendered h6{
+  text-transform: uppercase;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: .3rem;
+  text-shadow: .11rem .11rem 0 rgba(77, 73, 62, 0) !important;
+  h1-color: var(--text-normal)
+}
