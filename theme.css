@@ -715,3 +715,10 @@ select, .dropdown {
   min-width: var(--list-indent);
   display: inline-block;
 }
+
+/*tooltip color*/
+body {
+
+  --background-modifier-message: var(--background-primary) !important;
+}
+
