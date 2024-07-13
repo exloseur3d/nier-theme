@@ -403,7 +403,7 @@ pre[class*='language-'] {
 
 .mod-left-split .workspace-tab-header.has-active-menu .workspace-tab-header-inner-icon, .mod-right-split .workspace-tab-header.has-active-menu .workspace-tab-header-inner-icon, .mod-left-split .workspace-tab-header.is-active .workspace-tab-header-inner-icon, .mod-right-split .workspace-tab-header.is-active .workspace-tab-header-inner-icon {
   opacity: var(--icon-opacity-active);
-  color: white;
+  color: var(--background-primary);
 }
 /*section top right logo*/
 .is-focused .titlebar-inner {
