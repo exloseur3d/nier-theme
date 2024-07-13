@@ -95,3 +95,6 @@ date 12/07/2024
 - Background of the forward and backward link fixed
 - Fixed the color when writing in LaTeX
 
+## 0.1.02
+date 12/07/2024
+- fix for the **tooltip** background color to improve readability.
