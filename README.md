@@ -81,6 +81,8 @@ Keeping the general color theme with small changes to make navigation simpler.
 - No side decoration : [here](https://github.com/exloseur3d/nier-theme/blob/4e9767d68067a57c46eb2350787afe3cbc4395d4/theme%20snippet/no%20side%20decoration.css)
   ![image](https://github.com/exloseur3d/nier-theme/blob/4934174508e2f6c6f23ef6765a9978cef98f94f6/new%20image%20set/no%20side%20decoration%20presentation.png)
 
+- [Text colors](https://github.com/exloseur3d/nier-theme/tree/7292436f46897c2d8cd6d07cecb7af079af36b5a/theme%20snippet/Beautitab%20snipet) for [Beautitab](https://github.com/andrewmcgivery/obsidian-beautitab)
+
 ## PLUGIN COMPATIBILITIE
 Right now the theme is guaranteed to work with the following plugins:
 - [Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin)
@@ -122,3 +124,8 @@ date 14/07/2024
 ## 0.1.05
 date 14/07/2024
 - Fix for code bloc color of text and background.
+
+## 0.1.06
+date 14/07/2024
+- small color fix
+- new snippet, to remouve side decoration and one to change text color in the [Beautitab](https://github.com/andrewmcgivery/obsidian-beautitab).
