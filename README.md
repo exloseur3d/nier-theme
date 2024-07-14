@@ -2,6 +2,7 @@
 
 <img src="https://github.com/exloseur3d/nier-theme/blob/5cac1521a933d23f22d8efa9f0929e94278119f6/nier%20theme%20obsidian%20icon.png" alt="BMC qr code" width="200" height="200">
 
+
 The Nier theme is an Obsidian theme inspired by the UI of the video game "NieR: Automata".
 
 This theme tries to be as close looking to the game menu while still being usable and easy on the eyes with the warm "mono" color scheme.
