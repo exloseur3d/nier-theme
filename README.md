@@ -1,4 +1,6 @@
 # NIER-THEME
+
+<img src="https://github.com/exloseur3d/nier-theme/blob/5cac1521a933d23f22d8efa9f0929e94278119f6/nier%20theme%20obsidian%20icon.png" alt="BMC qr code" width="200" height="200">
 The Nier theme is an Obsidian theme inspired by the UI of the video game "NieR: Automata".
 
 This theme tries to be as close looking to the game menu while still being usable and easy on the eyes with the warm "mono" color scheme.
@@ -22,7 +24,7 @@ ___
 
 # PRESENTATION
 
-![image](https://github.com/exloseur3d/nier-theme/blob/151bd8113dbf92e911d0ee087a49bf629565a2a6/image%20theme/miniature.png)
+![image](https://github.com/exloseur3d/nier-theme/blob/46ca11960b9763923c4eb9be5529f5b764030a61/new%20image%20set/miniature.png)
 
 # FEATURES
 ## HEADER
@@ -45,7 +47,7 @@ While internal links are brown/red, **external** links are blue with a small log
 
 With less flashy colors to be more gentle with the eyes.
 
-![image](https://github.com/exloseur3d/nier-theme/blob/601509811364d235f59cfc7d4c8d075054cba677/image%20theme/callout%20and%20codebloc.png)
+![image](https://github.com/exloseur3d/nier-theme/blob/46ca11960b9763923c4eb9be5529f5b764030a61/new%20image%20set/callout%20and%20code%20bloc.png)
 
 ## GRAPH VIEW
 Displayed in red are the tags, in light gray the attachments, and in gray the notes.
@@ -62,7 +64,7 @@ Displayed in red are the tags, in light gray the attachments, and in gray the no
 ## MENU INTERFACE
 Keeping the general color theme with small changes to make navigation simpler.
 
-![image](https://github.com/exloseur3d/nier-theme/blob/8cb818eb9fc6bfbd51283225ebb983b45df13430/image%20theme/interface%203.png)
+![image](https://github.com/exloseur3d/nier-theme/blob/394986edab4e383b7863aaf8c5a3c9f5f398a3c6/new%20image%20set/setting%20menu.png)
 
 ## CANVAS
 ![image](https://github.com/exloseur3d/nier-theme/blob/601509811364d235f59cfc7d4c8d075054cba677/image%20theme/canvas.png)
@@ -85,6 +87,7 @@ Right now the theme is guaranteed to work with the following plugins:
 - [Code styler](https://github.com/mayurankv/Obsidian-Code-Styler)
 - [Typing Assistant](https://github.com/Jambo2018/notion-assistant-plugin)
 - [Multi tag](https://github.com/technohiker/obsidian-multi-tag)
+- [Beautitab](https://github.com/andrewmcgivery/obsidian-beautitab)
 
 If for some reason other plugins have problems with the Nier theme, send me a message and I will try to fix the problem as fast as possible.
 
@@ -110,3 +113,7 @@ date 13/07/2024
 date 14/07/2024
 - Fix pop-up notification text color.
 - Fix setting background colors on mobile.
+
+## 0.1.05
+date 14/07/2024
+- Fix for code bloc color of text and background.

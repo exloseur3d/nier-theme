@@ -772,3 +772,22 @@ button:not(.clickable-icon) {
   word-break: break-word;
   cursor: var(--cursor);
 }
+
+/*code bloc bacground color and text fix*/
+.cm-s-obsidian div.HyperMD-codeblock-begin-bg, .cm-s-obsidian div.HyperMD-codeblock-end-bg {
+  background-color: rgb(0 0 0);
+}
+  
+.cm-s-obsidian div.HyperMD-codeblock-bg {
+  left: 0;
+  right: 0;
+  background-color: rgb(0 0 0);
+}
+
+:not(pre) > code[class*="language-"], pre[class*="language-"] {
+  background: rgb(0 0 0);
+}
+
+.token.function, .token.macro.property, .HyperMD-codeblock .cm-def, .HyperMD-codeblock .cm-variable {
+  color: var(--background-primary) !important;
+}
