@@ -587,7 +587,7 @@ button {
 }
 /*menu d'éroulant*/
 select, .dropdown{
-  color: var(--background-primary); 
+  color: var(--background-secondary-alt); 
   background-color: var(--background-secondary);
 }
 
