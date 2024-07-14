@@ -78,6 +78,9 @@ Keeping the general color theme with small changes to make navigation simpler.
 - No shadow title : [here](https://github.com/exloseur3d/nier-theme/blob/6fce0b80b34495a4973b73b0829f51ddd14e7b8e/theme%20snippet/No_shadow_title_snippet.css)
   ![image](https://github.com/exloseur3d/nier-theme/blob/8c14f1ac77ec2dfd85fb75273515c190c7a4642b/image%20theme/no%20shadow.png)
 
+- No side decoration : [here](https://github.com/exloseur3d/nier-theme/blob/4e9767d68067a57c46eb2350787afe3cbc4395d4/theme%20snippet/no%20side%20decoration.css)
+  ![image](https://github.com/exloseur3d/nier-theme/blob/4934174508e2f6c6f23ef6765a9978cef98f94f6/new%20image%20set/no%20side%20decoration%20presentation.png)
+
 ## PLUGIN COMPATIBILITIE
 Right now the theme is guaranteed to work with the following plugins:
 - [Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin)
