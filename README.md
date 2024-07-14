@@ -125,7 +125,7 @@ date 14/07/2024
 date 14/07/2024
 - Fix for code bloc color of text and background.
 
-## 0.1.06
+## 0.1.07
 date 14/07/2024
 - small color fix
 - new snippet, to remouve side decoration and one to change text color in the [Beautitab](https://github.com/andrewmcgivery/obsidian-beautitab).
