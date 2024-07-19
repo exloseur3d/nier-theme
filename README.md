@@ -129,3 +129,10 @@ date 14/07/2024
 date 14/07/2024
 - small color fix
 - new snippet, to remouve side decoration and one to change text color in the [Beautitab](https://github.com/andrewmcgivery/obsidian-beautitab).
+
+## 0.1.08
+date 20/07/2024
+- new colaps icon
+- is now possible to aligne image on the left, right and midle by adding |right or |left or |midle when adding a image.
+- margin fix
+- toolbar plugin option menu, color fix
