@@ -887,4 +887,34 @@ img[alt*="left"] {
   height: 100%;
   cursor: var(--cursor);
   padding-right: 5px;
+  transform: translateX(-20%);
+}
+
+
+.markdown-preview-view ul > li,
+.markdown-preview-view ol > li,
+.markdown-source-view ul > li,
+.markdown-source-view ol > li {
+    position: relative;
+}
+
+
+.markdown-preview-view ul > li > .collapse-indicator,
+.markdown-preview-view ol > li > .collapse-indicator,
+.markdown-source-view ul > li > .collapse-indicator,
+.markdown-source-view ol > li > .collapse-indicator {
+    position: absolute;
+    top: 13px;
+    left: 0px; 
+    transform: translateY(-50%);
+    cursor: var(--cursor);
+}
+
+
+.markdown-preview-view ul > li.is-collapsed > .collapse-indicator,
+.markdown-preview-view ol > li.is-collapsed > .collapse-indicator,
+.markdown-source-view ul > li.is-collapsed > .collapse-indicator,
+.markdown-source-view ol > li.is-collapsed > .collapse-indicator {
+    top: 50%;
+    transform: translateY(-50%);
 }
