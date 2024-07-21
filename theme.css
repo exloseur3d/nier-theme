@@ -578,19 +578,6 @@ pre[class*='language-'] {
   scale: 1.12;
 }
 
-/*lesft margin fix*/
-.markdown-preview-view.is-readable-line-width .markdown-preview-sizer, .markdown-source-view.mod-cm6.is-readable-line-width .cm-content, .inline-title {
-  max-width: var(--file-line-width);
-  margin-left: 30px ;
-}
-
-/*property margin fix*/
-.metadata-container{
-  margin-left: 30px;
-}
-.markdown-preview-view.show-properties .metadata-container{
-  margin-left: 0px;
-}
 
 /*tool bar button*/
 button {
@@ -917,4 +904,30 @@ img[alt*="left"] {
 .markdown-source-view ol > li.is-collapsed > .collapse-indicator {
     top: 50%;
     transform: translateY(-50%);
+}
+
+
+
+/*margin fix*/
+.markdown-source-view.mod-cm6.is-readable-line-width .cm-sizer {
+  max-width: var(--file-line-width);
+  margin-left: 30px;
+  margin-right: 30px;
+  transform: translate(0px, 0px);
+}
+
+.markdown-preview-view.is-readable-line-width .markdown-preview-sizer {
+  max-width: var(--file-line-width);
+  margin-left: 30px;
+  margin-right: 30px;
+  transform: translate(0px, 0px);
+}
+
+
+/*property margin fix*/
+.metadata-container{
+  margin-left: 30px;
+}
+.markdown-preview-view.show-properties .metadata-container{
+  margin-left: 0px;
 }
