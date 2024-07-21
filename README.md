@@ -58,7 +58,7 @@ Displayed in red are the tags, in light gray the attachments, and in gray the no
 ![image](https://github.com/exloseur3d/nier-theme/blob/82a473c63c79b11dbbab37bb040c7a45c6158acc/image%20theme/graph%20view.png)
 
 <ins>With attachments :<ins>
-![image](https://github.com/exloseur3d/nier-theme/blob/c4df44fc8be299669d0992cb1c17c9f5a5b188a2/image%20theme/graphview%20with%20attachements.png)
+![image](https://github.com/exloseur3d/nier-theme/blob/fd1af6f707499d49d450c5d48a61a0b7925d9542/new%20image%20set/graphview%20attachement.png)
 
 ## STAKED MODE
 ![image](https://github.com/exloseur3d/nier-theme/blob/4a0b64a98934c2b36d90ab75e9a610e38a6d1f62/image%20theme/stacked%20view.png)
