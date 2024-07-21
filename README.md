@@ -26,7 +26,7 @@ ___
 
 # PRESENTATION
 
-![image](https://github.com/exloseur3d/nier-theme/blob/46ca11960b9763923c4eb9be5529f5b764030a61/new%20image%20set/miniature.png)
+![image](https://github.com/exloseur3d/nier-theme/blob/20d10bc7156638de491c50d3bcb9570e6c063790/new%20image%20set/preview_Nier_theme.png)
 
 # FEATURES
 ## HEADER
@@ -58,7 +58,7 @@ Displayed in red are the tags, in light gray the attachments, and in gray the no
 ![image](https://github.com/exloseur3d/nier-theme/blob/82a473c63c79b11dbbab37bb040c7a45c6158acc/image%20theme/graph%20view.png)
 
 <ins>With attachments :<ins>
-![image](https://github.com/exloseur3d/nier-theme/blob/c4df44fc8be299669d0992cb1c17c9f5a5b188a2/image%20theme/graphview%20with%20attachements.png)
+![image](https://github.com/exloseur3d/nier-theme/blob/fd1af6f707499d49d450c5d48a61a0b7925d9542/new%20image%20set/graphview%20attachement.png)
 
 ## STAKED MODE
 ![image](https://github.com/exloseur3d/nier-theme/blob/4a0b64a98934c2b36d90ab75e9a610e38a6d1f62/image%20theme/stacked%20view.png)
@@ -129,3 +129,10 @@ date 14/07/2024
 date 14/07/2024
 - small color fix
 - new snippet, to remouve side decoration and one to change text color in the [Beautitab](https://github.com/andrewmcgivery/obsidian-beautitab).
+
+## 0.1.08
+date 21/07/2024
+- new colaps icon
+- is now possible to aligne image on the left, right and midle by adding |right or |left or |midle when adding a image.
+- margin fix
+- toolbar plugin option menu, color fix
