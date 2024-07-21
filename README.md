@@ -26,7 +26,7 @@ ___
 
 # PRESENTATION
 
-![image](https://github.com/exloseur3d/nier-theme/blob/46ca11960b9763923c4eb9be5529f5b764030a61/new%20image%20set/miniature.png)
+![image](https://github.com/exloseur3d/nier-theme/blob/20d10bc7156638de491c50d3bcb9570e6c063790/new%20image%20set/preview_Nier_theme.png)
 
 # FEATURES
 ## HEADER
