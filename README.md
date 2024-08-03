@@ -95,6 +95,7 @@ Right now the theme is guaranteed to work with the following plugins:
 - [Typing Assistant](https://github.com/Jambo2018/notion-assistant-plugin)
 - [Multi tag](https://github.com/technohiker/obsidian-multi-tag)
 - [Beautitab](https://github.com/andrewmcgivery/obsidian-beautitab)
+- [Dataview](https://github.com/blacksmithgu/obsidian-dataview)
 
 If for some reason other plugins have problems with the Nier theme, send me a message and I will try to fix the problem as fast as possible.
 
@@ -102,8 +103,8 @@ If for some reason other plugins have problems with the Nier theme, send me a me
 
 ## 0.1.01
 date 12/07/2024
-- Background of the forward and backward link fixed
-- Fixed the color when writing in LaTeX
+- Background of the forward and backward link fixed.
+- Fixed the color when writing in LaTeX.
 
 ## 0.1.02
 date 13/07/2024
@@ -127,12 +128,16 @@ date 14/07/2024
 
 ## 0.1.07
 date 14/07/2024
-- small color fix
+- small color fix.
 - new snippet, to remouve side decoration and one to change text color in the [Beautitab](https://github.com/andrewmcgivery/obsidian-beautitab).
 
 ## 0.1.08
 date 21/07/2024
-- new colaps icon
+- new colaps icon.
 - is now possible to aligne image on the left, right and midle by adding |right or |left or |midle when adding a image.
-- margin fix
-- toolbar plugin option menu, color fix
+- margin fix.
+- toolbar plugin option menu, color fix.
+
+## 0.1.09
+date 03/08/2024
+- fix inline field color for the plugin Dataview.
