@@ -931,3 +931,9 @@ img[alt*="left"] {
 .markdown-preview-view.show-properties .metadata-container{
   margin-left: 0px;
 }
+
+/*fix dataview plugin inline field*/
+
+.dataview.inline-field-value {
+  background-color: var(--background-primary);
+}
