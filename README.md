@@ -141,3 +141,7 @@ date 21/07/2024
 ## 0.1.09
 date 03/08/2024
 - fix inline field color for the plugin Dataview.
+
+## 0.1.10
+date 07/08/2024
+- fix for mermaid node and text colors
