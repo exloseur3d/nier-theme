@@ -6,7 +6,7 @@
   
   --interactive-accent: #6e695b; 
   --background-primary: #ddd8c7;  
-  --background-primary-alt: rgba(172,167,147,255);
+  --background-primary-alt: rgba(172, 167, 147, 255);
   --background-secondary: #afaa96;
   --background-secondary-alt: #4a473e; 
   --background-accent: #000;
@@ -936,4 +936,39 @@ img[alt*="left"] {
 
 .dataview.inline-field-value {
   background-color: var(--background-primary);
+}
+
+
+
+/*fix mermaid*/
+/*.label > g > foreignObject  {
+  color: red !important;
+  background-color: blue !important;
+}
+
+.node > g > g > foreignObject > div {
+  color: green !important;
+  stroke: blue !important;
+}*/
+
+.mermaid svg .cluster rect {
+  fill: var(--background-primary) !important;
+  stroke: var(--background-secondary-alt) !important;
+}
+
+.mermaid svg .node rect {
+    fill: var(--background-primary-alt) !important;
+    stroke: var(--background-secondary-alt) !important;
+}
+
+.actor {
+  fill: var(--background-primary-alt) !important;
+  stroke: var(--background-secondary-alt) !important;
+}
+
+.node circle, .node ellipse, .node path, .node polygon {
+
+  fill: var(--background-primary-alt) !important;
+  stroke: var(--background-secondary-alt) !important;
+
 }
