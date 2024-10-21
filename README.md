@@ -20,7 +20,7 @@ If you like this theme you can support me there :
 <img src="https://github.com/exloseur3d/nier-theme/blob/713a3799e7c229767b9c53a3a6b33517302901c4/image%20theme/bmc_qr.png" alt="BMC qr code" width="300" height="300">
 
 ### CONTACT ME
-For any problem about the theme you can contact me here: <a href="mailto:hernandez.bryan.3d@gmail.com">Send email</a>
+For any problem about the theme you can contact me [here](https://github.com/exloseur3d/nier-theme/issues).
 ___
 ___
 
