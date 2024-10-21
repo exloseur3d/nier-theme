@@ -972,3 +972,13 @@ img[alt*="left"] {
   stroke: var(--background-secondary-alt) !important;
 
 }
+
+/*editing toolbar fix*/
+
+button:not(.clickable-icon) {
+  color: var(--background-primary);
+}
+
+.selection-btn:first-child {
+  color: var(--background-primary);
+}
