@@ -148,4 +148,8 @@ date 07/08/2024
 
 ## 0.1.11
 date 21/10/2024
-- fix due to colors problem on mobile after the obsidian update (1.7.4). 
+- fix due to colors problem on mobile after the obsidian update (1.7.4).
+
+## 0.1.12
+date 21/10/2024
+- more colors fix. 

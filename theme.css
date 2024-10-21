@@ -709,7 +709,7 @@ select, .dropdown {
 }
 
 .is-focused .workspace-tab-header {
-  color: var(--background-primary);
+  color: var(--background-accent);
 }
 
 /*graph nodes colors*/
