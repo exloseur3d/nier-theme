@@ -145,3 +145,7 @@ date 03/08/2024
 ## 0.1.10
 date 07/08/2024
 - fix for mermaid node and text colors
+
+## 0.1.11
+date 21/10/2024
+- fix due to colors problem on mobile after the obsidian update (1.7.4). 
