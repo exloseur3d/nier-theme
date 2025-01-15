@@ -982,3 +982,8 @@ button:not(.clickable-icon) {
 .selection-btn:first-child {
   color: var(--background-primary);
 }
+
+/*unlinked mentions buttun color fix*/
+.search-result-file-match-replace-button:hover{
+  color: var(--text-highlight-bg);
+}
