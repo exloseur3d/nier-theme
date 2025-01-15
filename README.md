@@ -152,4 +152,8 @@ date 21/10/2024
 
 ## 0.1.12
 date 21/10/2024
-- more colors fix. 
+- more colors fix.
+
+## 0.1.13
+date 15/01/2025
+- small color fix on the unlinked mentions buttun. 
