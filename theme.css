@@ -83,6 +83,8 @@
     --code-keyword : rgb(188, 106, 124); 
 
     --dropdown-background : var(--interactive-normal); 
+
+    --code-normal : var(var(--background-primary))
 }
 
 .is-tablet.theme-dark {
@@ -109,6 +111,9 @@
   --mobile-sidebar-background: var(--background-secondary);
   --background-modifier-message: var(--background-secondary);
 }
+
+
+
 
 
 .theme-light {
@@ -360,7 +365,7 @@ pre[class*='language-'] {
 
 .token.comment, .token.prolog, .token.doctype, .token.cdata,
 .HyperMD-codeblock .cm-comment {
-  color: var(--gray-1) !important;
+  color: var(--gray-2) !important;
 }
 
 .token.punctuation,
@@ -785,7 +790,14 @@ button:not(.clickable-icon) {
 
 :not(pre) > code[class*="language-"], pre[class*="language-"] {
   background: rgb(0 0 0);
+  
 }
+
+/*code black colors fix in reading mode*/
+code[class*="language-"], pre[class*="language-"] {
+  color: var(--background-primary);
+}
+
 
 .token.function, .token.macro.property, .HyperMD-codeblock .cm-def, .HyperMD-codeblock .cm-variable {
   color: var(--background-primary) !important;
