@@ -157,3 +157,7 @@ date 21/10/2024
 ## 0.1.13
 date 15/01/2025
 - small color fix on the unlinked mentions buttun. 
+
+## 0.1.14
+date 14/06/2025
+- Code block for C# having the wrong highlight color in reading mode is now fixed.
