@@ -163,5 +163,9 @@ date 14/06/2025
 - Code block for C# having the wrong highlight color in reading mode is now fixed.
 
 ## 0.1.15
-date 121/08/2025
+date 21/08/2025
 - Fix for the new base feature (changing visual to ensure good readability).
+
+## 0.1.16
+date 29/08/2025
+- Small color fix for the bottom menu on mobile devices.
