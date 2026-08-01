@@ -612,7 +612,7 @@ body {
 .callout[data-callout="info"] {
   overflow: hidden;
   border-style: solid;
-  border-color: rgba(var(--callout-color), var(--callout-border-opacity));
+  border-color: color-mix(in srgb, var(--callout-color) calc(var(--callout-border-opacity) * 100%), transparent);
   border-width: var(--callout-border-width);
   border-radius: var(--callout-radius);
   margin: 1em 0;
@@ -625,7 +625,7 @@ body {
 .callout[data-callout="warning"] {
   overflow: hidden;
   border-style: solid;
-  border-color: rgba(var(--callout-color), var(--callout-border-opacity));
+  border-color: color-mix(in srgb, var(--callout-color) calc(var(--callout-border-opacity) * 100%), transparent);
   border-width: var(--callout-border-width);
   border-radius: var(--callout-radius);
   margin: 1em 0;
@@ -637,7 +637,7 @@ body {
 .callout[data-callout="todo"] {
   overflow: hidden;
   border-style: solid;
-  border-color: rgba(var(--callout-color), var(--callout-border-opacity));
+  border-color: color-mix(in srgb, var(--callout-color) calc(var(--callout-border-opacity) * 100%), transparent);
   border-width: var(--callout-border-width);
   border-radius: var(--callout-radius);
   margin: 1em 0;
@@ -649,7 +649,7 @@ body {
 .callout[data-callout="example"] {
   overflow: hidden;
   border-style: solid;
-  border-color: rgba(var(--callout-color), var(--callout-border-opacity));
+  border-color: color-mix(in srgb, var(--callout-color) calc(var(--callout-border-opacity) * 100%), transparent);
   border-width: var(--callout-border-width);
   border-radius: var(--callout-radius);
   margin: 1em 0;
@@ -661,7 +661,7 @@ body {
 .callout[data-callout="tip"] {
   overflow: hidden;
   border-style: solid;
-  border-color: rgba(var(--callout-color), var(--callout-border-opacity));
+  border-color: color-mix(in srgb, var(--callout-color) calc(var(--callout-border-opacity) * 100%), transparent);
   border-width: var(--callout-border-width);
   border-radius: var(--callout-radius);
   margin: 1em 0;
@@ -673,7 +673,7 @@ body {
 .callout[data-callout="question"] {
   overflow: hidden;
   border-style: solid;
-  border-color: rgba(var(--callout-color), var(--callout-border-opacity));
+  border-color: color-mix(in srgb, var(--callout-color) calc(var(--callout-border-opacity) * 100%), transparent);
   border-width: var(--callout-border-width);
   border-radius: var(--callout-radius);
   margin: 1em 0;
@@ -685,7 +685,7 @@ body {
 .callout[data-callout="success"] {
   overflow: hidden;
   border-style: solid;
-  border-color: rgba(var(--callout-color), var(--callout-border-opacity));
+  border-color: color-mix(in srgb, var(--callout-color) calc(var(--callout-border-opacity) * 100%), transparent);
   border-width: var(--callout-border-width);
   border-radius: var(--callout-radius);
   margin: 1em 0;
@@ -697,7 +697,7 @@ body {
 .callout[data-callout="abstract"] {
   overflow: hidden;
   border-style: solid;
-  border-color: rgba(var(--callout-color), var(--callout-border-opacity));
+  border-color: color-mix(in srgb, var(--callout-color) calc(var(--callout-border-opacity) * 100%), transparent);
   border-width: var(--callout-border-width);
   border-radius: var(--callout-radius);
   margin: 1em 0;
