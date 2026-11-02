@@ -1072,3 +1072,8 @@ body.is-focused .mod-active .workspace-tab-header-container .workspace-tab-heade
 .nav-buttons-container .nav-action-button.is-active {
    color: var(--background-secondary-alt);
 }
+
+/* fix for new version release rule and small graphic change */
+.mod-left-split .workspace-tab-header-container .workspace-tab-header.has-active-menu .workspace-tab-header-inner-icon, .mod-right-split .workspace-tab-header-container .workspace-tab-header.has-active-menu .workspace-tab-header-inner-icon, .mod-left-split .workspace-tab-header-container .workspace-tab-header.is-active .workspace-tab-header-inner-icon, .mod-right-split .workspace-tab-header-container .workspace-tab-header.is-active .workspace-tab-header-inner-icon {
+    color: var(--interactive-accent);
+}
