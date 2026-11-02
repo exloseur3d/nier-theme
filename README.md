@@ -178,3 +178,8 @@ date 14/01/2026
 ## 0.1.18
 date 31/07/2026
 - Text colors fix for code[class*="language-"], pre[class*="language-"]
+
+## 0.1.19
+date 02/11/2026
+- new release format
+- small change on the top bar icon color for better readability
